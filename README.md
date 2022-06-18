@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @amirrahemi01
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me amirrahemi01@gmail.com
+
+
+<!-- - 💞️ I’m looking to collaborate on github -->
 
 
 <!---
