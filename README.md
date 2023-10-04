@@ -5,6 +5,8 @@
 
 <!-- - 🔭 I’m currently working on [Todo](https://github.com/amirrahemi01/Basic-TodoApp) -->
 
+- 🔭 I’m currently working on React.js projects
+
 - 👀 I’m interested in web developing
 
 - 🌱 I’m currently learning **React.js**
