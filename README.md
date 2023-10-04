@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Amir Rahemi</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently working on [Todo](https://github.com/amirrahemi01/Basic-TodoApp)
+<!-- - 🔭 I’m currently working on [Todo](https://github.com/amirrahemi01/Basic-TodoApp) -->
 
 - 👀 I’m interested in web developing
 
