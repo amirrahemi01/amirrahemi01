@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **amirrahemi01@gmail.com**
+- 📫 How to reach me **amirrahemi@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
