@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amirrahemi01@gmail.com**
 
-<a href="https://amirrahemi-portfolio.vercel.app/">HI</a>
+<a href="https://amirrahemi.com/">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
