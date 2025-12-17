@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **amirrahemi01@gmail.com**
+- 📫 How to reach me **hi@amirrahemi.com**
 
 <a href="https://amirrahemi.com/">My Portfolio</a>
 
