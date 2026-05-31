@@ -9,9 +9,9 @@
 
 - 👀 I’m interested in web developing
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **GoLang**
 
-- 📫 How to reach me **hi@amirrahemi.com**
+- 📫 How to reach me **amirrahemi01@gmail.com**
 
 <a href="https://amirrahemi.com/">My Portfolio</a>
 
