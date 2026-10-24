@@ -42,7 +42,11 @@
 
 ### GitHub Stats
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrahemi01&hide_border=true&background=FFFFFF00" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=amirrahemi01&theme=dark&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=amirrahemi01&theme=default&hide_border=true&background=00000000" />
+    <img src="https://streak-stats.demolab.com/?user=amirrahemi01&theme=dark&hide_border=true&background=00000000" alt="GitHub streak stats" />
+  </picture>
 </p>
 
 ---
@@ -56,5 +60,5 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=amirrahemi01&label=Profile%20views&style=flat-square&color=black" />
+  <img src="https://komarev.com/ghpvc/?username=amirrahemi01&label=Profile%20views&style=flat-square&color=181717" />
 </p>
